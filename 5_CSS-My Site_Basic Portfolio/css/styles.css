@@ -1,0 +1,181 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    /*background-color: #bbe1fa ;*/
+    background-image: radial-gradient( circle 344px at 1.4% 0%,  rgba(242,185,252,1) 19.3%, rgba(250,254,190,1) 80.7% );
+    
+}
+h1{ font-size: 410%;
+    margin:50px auto 0 auto ;
+    font-family: 'Sacramento', cursive;
+ 
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+    font-weight: 1500;
+    
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+   /* background-color: #e4f9f5 ;    #1b262c*/
+   background-image: linear-gradient( 358.7deg,  rgba(42,136,157,1) 1.7%, rgba(122,197,214,1) 51.1%, rgba(211,232,242,1) 95.5% );
+    width:100%;
+    height:750px;
+    color:black;
+    
+}
+.thought{
+    position:absolute;
+    left: 70%;
+    bottom:20%;
+    width:350px;
+    height:400px;
+}
+.top-cloud{
+    position: relative;
+    left: 380px;
+    top: 50px;
+    height:80px;
+    width:220px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:250px;
+    bottom:450px;
+    height:80px;
+    width:220px;
+}
+.lap{
+    width:420px;
+    height:470px;
+}
+.profile{
+    background-color:#ffd9e8;
+    color:black);
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    text-align:left;
+    width:50%;
+    height:300px;
+    margin:auto;
+    line-height: 2;
+    
+}
+
+.mansi{
+    margin-top: 30px;
+    border-radius: 50%;
+    margin-left:20px;
+    float:left;
+    margin-right:30px;
+    
+    
+}
+.intro{
+    margin-left: 30px;
+}
+.s{
+    float:left;
+    margin-left: 40px;;
+}
+.code{
+   /* width:140px;
+    height: 150px;*/
+    width:70%;
+    height:200px;
+   
+}
+.skills{
+    background-color: #cae8d5;background-image: linear-gradient(25deg, #d3486b, #e36e80, #f29195, #ffb3ab);
+    color:black;
+    
+    font-weight: bolder;
+    height:400px;
+    
+    
+}
+.pl{
+    margin-left: 10em;
+    text-align: left;
+    
+}
+.wd{
+    margin-right: 10em;
+    text-align: right;
+   
+    
+}
+
+.c{
+    width:100px;
+    height:110px;
+    
+    
+    
+}
+.cpp{
+    width:110px;
+    height:110px;
+    margin-left: 3rem;
+   
+}
+.python{
+    width:110px;
+    height:110px;
+    margin-left: 3rem;
+}
+.java{
+    width:110px;
+    height:110px;
+    background-color:white;
+    margin-left: 3rem;
+    
+}
+.html{
+    width:120px;
+    height:110px;
+    margin-right: 3rem;
+    
+}
+.css{
+    width:120px;
+    height:110px;
+    background-color: white;
+    margin-right: 3rem;
+}
+.git{
+    width:120px;
+    height:110px;
+    background-color: white;
+    margin-right: 3rem;
+}
+.vsc{
+    width:120px;
+    height:110px;
+    background-color: white;
+}
+.bottom-container{
+    /*background-color:#bbe1fa;*/
+    /*background-image: radial-gradient( circle 344px at 1.4% 0%,  rgba(242,185,252,1) 19.3%, rgba(250,254,190,1) 80.7% );*/
+    width:50%;
+    margin:auto;
+}
+.linkedin{
+    border-radius: 30%;
+    width:50px;
+    height:40px;
+    
+}
+.github{
+    width:40px;
+    height:40px;
+}
+.gmail{
+    width:40px;
+    height:40px;
+}
